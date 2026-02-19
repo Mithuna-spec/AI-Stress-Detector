@@ -1,0 +1,9 @@
+flask
+flask-cors
+opencv-python
+numpy
+scipy
+sounddevice
+librosa
+requests
+streamlit

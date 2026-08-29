@@ -1,1 +1,2 @@
-# AI-Stress-Detector
+# AI-Stress-Detector 
+This project is done for understanding the concepts and learning Machine learning.
